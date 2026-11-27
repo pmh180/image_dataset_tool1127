@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+test_rename/
+*.csv
+report.csv
+.DS_Store
+test_data/
+.vscode/
